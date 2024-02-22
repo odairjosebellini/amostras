@@ -1,2 +1,2 @@
 # amostras
-amostrasx
+amostras
